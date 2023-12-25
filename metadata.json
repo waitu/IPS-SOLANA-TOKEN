@@ -1,7 +1,7 @@
 {
     "name": "IP SCORE SOL",
     "symbol": "IPS",
-    "uri": "https://example.com/token-metadata.json",
+    "uri": "https://raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png",
     "seller_fee_basis_points": 500,
     "creators": [
       {
