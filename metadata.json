@@ -1,0 +1,14 @@
+{
+    "name": "IP SCORE SOL",
+    "symbol": "IPS",
+    "uri": "https://example.com/token-metadata.json",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "EXzBweQY86rgEBycEFQEMuK8kEptrGNndgWHKLhsfrE",
+        "share": 100
+      }
+    ],
+    "creators_are_artists": true
+  }
+  
