@@ -1,6 +1,6 @@
 {
-  decimals: 9,
-  logo: 'https://raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png',
-  name: 'IP SCORE SOL',
-  symbol: 'IPS'
- }
+    "decimals": 9,
+    "logo": "https: //raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png",
+    "name": "IP SCORE SOL",
+    "symbol": "IPS"
+}
