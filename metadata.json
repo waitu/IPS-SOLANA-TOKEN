@@ -1,6 +1,15 @@
 {
     "decimals": 9,
-    "logo": "https: //raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png",
+    "uri": "https: //raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png",
     "name": "IP SCORE SOL",
-    "symbol": "IPS"
+    "symbol": "IPS",
+    "seller_fee_basis_points":500,
+    "external_url":"https://ipscore.io/",
+    "properties": {
+    "files": [
+      {
+        "uri": "https://avatars.githubusercontent.com/u/22739419?s=400&u=1905a6b81bb6549a1bbb4d3fe32d37a9d617aba5&v=4",
+        "type": "image/png"
+      },
+    ],
 }
