@@ -1,14 +1,6 @@
 {
-    "name": "IP SCORE SOL",
-    "symbol": "IPS",
-    "uri": "https://raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png",
-    "seller_fee_basis_points": 500,
-    "creators": [
-      {
-        "address": "EXzBweQY86rgEBycEFQEMuK8kEptrGNndgWHKLhsfrE",
-        "share": 100
-      }
-    ],
-    "creators_are_artists": true
-  }
-  
+  decimals: 9,
+  logo: 'https://raw.githubusercontent.com/waitu/IPS-SOLANA-TOKEN/master/img/a8nx9ir7ilvaxqfhmbqs.png',
+  name: 'IP SCORE SOL',
+  symbol: 'IPS'
+ }
